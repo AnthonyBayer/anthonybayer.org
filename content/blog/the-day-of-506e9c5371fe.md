@@ -1,6 +1,6 @@
 ---
 title: "The Day Of"
-date: "2019-02-12"
+date: "2019-02-22"
 cover: /blog/the-day-of-506e9c5371fe.jpg
 ---
 

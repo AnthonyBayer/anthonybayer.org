@@ -3,7 +3,7 @@ Hash: SHA256
 
 - ---
 title: "The Same Bench"
-date: "2022-12-14"
+date: "2020-07-30"
 cover: /blog/the-same-bench-77a25cb281e5.jpg
 - ---
 
@@ -92,8 +92,8 @@ I walked away.
 I tried not to cry, and was only mostly successful.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZEidmQAKCRBQuxv9At7c
-HUo+AP0cU2DxIXSO+qyyB/UM3m758SOJT/Ee7iv5G+pDcUGjiQEAlpXmE8kAtBtP
-+AZYtfCaJzwRX7vhf72TUn2qBKkkOQ4=
-=t3XT
+iHUEARYIAB0WIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZEjibwAKCRBQuxv9At7c
+HetMAQC4l/7ddSfTGuG01KXTVuZ0WryNNQHoWmIvRVkwKciD2gD+KHTCQFjPDAw8
+m9htX6gqwxE2+RsO8yy7X633KY7dBwo=
+=EqBG
 -----END PGP SIGNATURE-----

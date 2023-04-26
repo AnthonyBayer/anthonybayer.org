@@ -1,6 +1,6 @@
 ---
 title: "The Same Bench"
-date: "2022-12-14"
+date: "2020-07-30"
 cover: /blog/the-same-bench-77a25cb281e5.jpg
 ---
 

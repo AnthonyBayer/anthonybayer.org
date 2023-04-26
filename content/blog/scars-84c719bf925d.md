@@ -1,6 +1,6 @@
 ---
 title: "Scars"
-date: "2018-03-31"
+date: "2019-04-03"
 cover: /blog/scars-84c719bf925d.jpg
 ---
 

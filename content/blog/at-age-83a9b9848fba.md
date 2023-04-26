@@ -1,6 +1,6 @@
 ---
 title: "At Age"
-date: "2022-07-08"
+date: "2019-07-08"
 cover: /blog/at-age-83a9b9848fba.jpg
 ---
 

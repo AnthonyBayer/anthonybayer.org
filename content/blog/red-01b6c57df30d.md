@@ -1,6 +1,6 @@
 ---
 title: "Red"
-date: "2929-11-07"
+date: "2020-11-07"
 cover: /blog/red-01b6c57df30d.jpg
 ---
 

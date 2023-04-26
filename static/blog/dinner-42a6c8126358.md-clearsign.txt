@@ -3,7 +3,7 @@ Hash: SHA256
 
 - ---
 title: "Dinner"
-date: "2020-02-14"
+date: "2020-02-26"
 cover: /blog/dinner-42a6c8126358.jpg
 - ---
 
@@ -48,8 +48,8 @@ I drank some of my scotch - It was the best I had ever had.
 "Okay." I said.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZEidgwAKCRBQuxv9At7c
-He4iAP9Di0dkHlb7JuCim0C3sQ3VZtmgR1pVpXaHMskzjJpnqAEAw7dTaypjQmx3
-1l90f5H3XjeyOOcPiR8k2mZwL3ehvQk=
-=/hgF
+iHUEARYIAB0WIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZEjibAAKCRBQuxv9At7c
+HTcQAP90Jbt49/9mOYoZWge1dKICQaAXKmb6QQ8PP6a2H1zg8QEA8qQQVW4zgbZc
+PaVTVT2RyQnRYE1xhm/YG8wEIVnaiQM=
+=vJ0L
 -----END PGP SIGNATURE-----

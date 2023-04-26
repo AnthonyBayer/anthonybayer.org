@@ -1,6 +1,6 @@
 ---
 title: "First Grade"
-date: "2020-07-01"
+date: "2020-07-03"
 cover: /blog/first-grade-d9ace88e8050.jpg
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Ben"
-date: "2019-09-09"
+date: "2019-08-09"
 cover: /blog/ben-613e0e8eee64.jpg
 ---
 
