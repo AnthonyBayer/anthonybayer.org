@@ -1,0 +1,15 @@
+---
+title: "High"
+date: "2019-10-09"
+cover: /blog/high-f2ac13fb9291.jpg
+---
+
+The porcelain bathtub was almost warm because of how long I had my cheek resting on it.
+
+The sun setting over the Pacific Ocean was bright in my eyes as I stared at it - but not bright enough to blind me.
+
+The room-temperature water soaked into my calm, naked body. I felt like I wanted to add more hot water, or something.
+
+And here I was - drunk and high off my mind - all alone in my ginormous, empty house.
+
+I wanted to cry, but I couldn't; I didn't have the energy to.

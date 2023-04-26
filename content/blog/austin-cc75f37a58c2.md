@@ -1,0 +1,37 @@
+---
+title: "Austin"
+date: "2018-10-08"
+cover: /blog/austin-cc75f37a58c2.jpg
+---
+
+My mind sunk deeper into the game, nothing but what was on the court and the scoreboard existed.
+
+Fifteen seconds, one point down, fatigue, sweat, noise.
+
+Our possession, with set up offense.
+
+Failure, ball was stolen. Their possession.
+
+Ten seconds. Run, fast. No shot.
+
+Ball stolen again, our possession.
+
+Five seconds. Science, tension, unpredictiveness.
+
+Teammate open, pass.
+
+Three seconds.
+
+Shot missed.
+
+Two seconds.
+
+Rebounded shot.
+
+One second.
+
+Shoot.
+
+Buzzer.
+
+Made basket.

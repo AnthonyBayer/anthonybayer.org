@@ -1,0 +1,13 @@
+---
+title: "Fiction"
+date: "2019-04-17"
+cover: /blog/fiction-fc8a73bc183a.jpg
+---
+
+"Does anyone know why fiction is more important than just entertainment?" Ms. Randall asked the class as she walked up to the front and turned to face us. The class was at a loss - we couldn't think of anything.
+
+"It'll be pretty obvious when you know it, think about it for a second." She urged.
+
+We couldn't think of anything. We awkwardly looked around at each other.
+
+"Okay fine," Ms. Randall said, giving up on us figuring it out. "I'll tell you:" She paused for dramatic effect, "Fiction is often used to experiment on false realities without anyone getting hurt." Everyone listened to her, "With fiction I could write a story about a mass murderer without anyone really getting murdered, or a nuclear war without any bombs actually going off. I could do what I wanted, in anyway I wanted, with only a pencil and a piece of paper."

@@ -1,0 +1,21 @@
+---
+title: "Namespace"
+date: "2018-10-31"
+cover: /blog/namespace-64b16b38cf57.jpg
+---
+
+It happens so suddenly, yet takes forever to set in.
+
+It's like going away for summer, or remembering someone who moved away.
+
+I become detached from myself. my senses senses become information, not part of my surroundings.
+
+I drift into my thoughts and memories. Everything that has happened is happening and everything that is happening has happened.
+
+I find patterns you never seen before, causes, effects, reason, chaos, love, prejudice.
+
+The world seems meaningless, and we seem to just be making it more chaotic.
+
+And then I finally take back control, and return to the world.
+
+And then I think, "I'm so happy to be here with you."
