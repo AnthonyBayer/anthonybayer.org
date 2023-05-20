@@ -92,9 +92,9 @@ languageCode = "en-us"
 			logoHomeLink = "/"
 
 		[[languages.en.menu.main]]
-			identifier = "home"
-			name = "Home"
-			url = "/"
+			identifier = "chapters"
+			name = "Chapters"
+			url = "/book"
 		[languages.en.menu]
 		[[languages.en.menu.main]]
 		identifier = "blog"

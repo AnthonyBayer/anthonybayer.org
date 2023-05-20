@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 # Anthony Bayer
 
 ## About
@@ -8,7 +11,7 @@ Anthony Bayer is a pseudonym created sometime around 2017. He was born march 27t
 
 Anthony was created to give the real person behind the pseudonym a safe place to express his emotions. He eventually, and unintentionally, created a unique world with weird and interesting characters to help him express them.
 
----
+- ---
 
 ## Projects
 
@@ -44,3 +47,11 @@ Fingerprint: `04EC A94B 3445 7C07 E74F BAE0 50BB 1BFD 02DE DC1D`
 ## Clearnet Service
 
 [anthonybayer.org](https://anthonybayer.org)
+-----BEGIN PGP SIGNATURE-----
+
+iJIEARYIADoWIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZGR/mBwcYmF5ZXJhbnRo
+b255QHByb3Rvbm1haWwuY29tAAoJEFC7G/0C3twd85EA/j9ww5eVY1Wq7pnU+Wis
+5SjkbiIUNeSOkbiA3QGEX6DTAP0cfVSJF30oDfYVlNfm22rCEYjpyxuE0lw1iccV
+J8bfAA==
+=oLyr
+-----END PGP SIGNATURE-----

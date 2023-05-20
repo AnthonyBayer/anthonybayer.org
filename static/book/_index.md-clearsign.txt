@@ -1,0 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+- ---
+title: "Chapters"
+- ---
+
+# Chapters
+
+[Chapters RSS feed](/index.xml)
+
+> A great place to start is the [foreword](0.01-foreword)
+
+All posts are dated in real time, meaning the date is when the events actually happened.
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZGhjzQAKCRBQuxv9At7c
+Hax9AP4qDy8VElrB7tTY9qYPqn/U+Z87S/05blYH7ESKNhFGjgEAr4YeI84aJFvO
+RN7Jq/F/Q6RQ0m2tYDi+lH3zWhSgsgY=
+=ci0i
+-----END PGP SIGNATURE-----

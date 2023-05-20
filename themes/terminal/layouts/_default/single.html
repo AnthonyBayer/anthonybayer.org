@@ -5,10 +5,12 @@
        {{ .Date.Format "2006-01-02" }}
       </time></b>
     {{ end }}
+  {{ if .Params.section }}
+   <p>Section <b class="accent-text-color">{{ .Params.section }}</b>  Chapter <b class="accent-text-color">{{ .Params.chapter }}</b></p>
+  {{ end }}
   <h1 class="post-title">
     <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
   </h1>
-  <p><a href="../{{ .File.LogicalName }}-clearsign.txt">Signature of markdown source</a></p>
   <div class="post-meta">
     {{ with .Params.Author }}
       <span class="post-author">{{ . }}</span>
@@ -43,6 +45,11 @@
       </div>
     {{- end -}}
   </div>
+  
+  {{ with .NextInSection }}
+  	<hr />
+    <p>Next: <a href="{{ .Permalink }}">{{ .Title }}</a></p>
+  {{ end }}
 
   {{ if eq .Type $.Site.Params.contentTypeName }}
     {{ partial "posts_pagination.html" . }}
