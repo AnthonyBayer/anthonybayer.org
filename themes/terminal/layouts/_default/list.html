@@ -6,57 +6,80 @@
     </div>
   {{ end }}
   <div class="posts">
-    {{ range first 3 .Pages }}
-      <article class="post on-list">
-        <h2 class="post-title">
-          <a href="{{ .Permalink }}">{{ if .Date }}{{ .Date.Format "2006 01 02" }}{{ end }}: {{ .Title | markdownify }}</a>
-        </h2>
-        <div class="post-meta">
-
-          {{ with .Params.Author }}
-            <span class="post-author">{{ . }}</span>
-          {{ end }}
-        </div>
-
-        {{ if .Params.tags }}
-          <span class="post-tags">
-            {{ range .Params.tags }}
-            #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
-              {{- . -}}
-            </a>&nbsp;
+    {{ if eq .Title "Chapters" }}
+        <h2 class="section-title">Section One: Birth</h2>
+      {{ range where .Pages "Params.section" "1" }}
+         <article class="post on-list">
+          <span> Chapter {{ if .Params.section}}{{ .Params.section}}.{{end}}{{ if .Params.chapter}}{{ .Params.chapter}}{{ end }}, {{ if .Date }}{{ .Date.Format "2006 01 02" }}{{ end }}</span>
+          <h3 class="post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h3>
+          <div class="post-meta">
+            {{ with .Params.Author }}
+              <span class="post-author">{{ . }}</span>
             {{ end }}
-          </span>
-        {{ end }}
+          </div>
+        </article>
+      {{ end }}
+        <h2 class="section-title">Section Zero</h2>
+      {{ range where .Pages "Params.section" "0" }}
+         <article class="post on-list">
+          <span> Chapter {{ if .Params.section}}{{ .Params.section}}.{{end}}{{ if .Params.chapter}}{{ .Params.chapter}}{{ end }}, {{ if .Date }}{{ .Date.Format "2006 01 02" }}{{ end }}</span>
+          <h3 class="post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h3>
+          <div class="post-meta">
+            {{ with .Params.Author }}
+              <span class="post-author">{{ . }}</span>
+            {{ end }}
+          </div>
+        </article>
+      {{ end }}
+    {{ else }} 
+      {{ range first 3 .Pages }}
+        <article class="post on-list">
+          <h2 class="post-title"><a href="{{ .Permalink }}">{{ if .Date }}{{ .Date.Format "2006 01 02" }}{{ end }}: {{ .Title | markdownify }}</a></h2>
+          <div class="post-meta">
+            {{ with .Params.Author }}
+              <span class="post-author">{{ . }}</span>
+            {{ end }}
+          </div>
 
-        <a href="{{ .Permalink }}">{{ partial "cover.html" . }}</a>
-      </article>
-    {{ end }}
+          {{ if .Params.tags }}
+            <span class="post-tags">
+              {{ range .Params.tags }}
+              #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
+                {{- . -}}
+              </a>&nbsp;
+              {{ end }}
+            </span>
+          {{ end }}
+
+          <a href="{{ .Permalink }}">{{ partial "cover.html" . }}</a>
+        </article>
+      {{ end }}
     
-	{{ $rest := .Pages | symdiff (first 3 .Pages) }}
+	    {{ $rest := .Pages | symdiff (first 3 .Pages) }}
 	
-	{{ range $rest }}
-		<article class="post on-list">
-        <h2>
-          <a href="{{ .Permalink }}">{{ if .Date }}{{ .Date.Format "2006 01 02" }}{{ end }}: {{ .Title | markdownify }}</a>
-        </h2>
-        <div class="post-meta">
+	  {{ range $rest }}
+		  <article class="post on-list">
+          <h2>
+            <a href="{{ .Permalink }}">{{ if .Date }}{{ .Date.Format "2006 01 02" }}{{ end }}: {{ .Title | markdownify }}</a>
+          </h2>
+          <div class="post-meta">
 
-          {{ with .Params.Author }}
-            <span class="post-author">{{ . }}</span>
-          {{ end }}
-        </div>
-
-        {{ if .Params.tags }}
-          <span class="post-tags">
-            {{ range .Params.tags }}
-            #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
-              {{- . -}}
-            </a>&nbsp;
+            {{ with .Params.Author }}
+              <span class="post-author">{{ . }}</span>
             {{ end }}
-          </span>
-        {{ end }}
+          </div>
 
-      </article>
+          {{ if .Params.tags }}
+            <span class="post-tags">
+              {{ range .Params.tags }}
+              #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">
+                {{- . -}}
+              </a>&nbsp;
+              {{ end }}
+            </span>
+          {{ end }}
+        </article>
+	  {{end}}
 	{{end}}
   </div>
 {{ end }}

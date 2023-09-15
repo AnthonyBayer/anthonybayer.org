@@ -28,17 +28,24 @@ There are two main projects created by Anthony. You do not need to read one to u
 
 [Posts RSS feed](blog/index.xml)
 
-## 
-
 ## PGP
 
-[bayeranthony@protonmail.com](/pgp/bayeranthony@protonmail.com.txt)
+[anthony@anthonybayer.org](/pgp/anthony@anthonybayer.org.txt)
 
 Fingerprint: `04EC A94B 3445 7C07 E74F BAE0 50BB 1BFD 02DE DC1D`
 
-## Bitcoin
+## Fediverse/Mastodon
 
-`1BayerNGeyWgdjq5DruQ4Mo5LoR1nHvxNE`
+<hr />
+
+{{< rawhtml >}}
+<p><a rel="me" href="https://ieji.de/@bayer">Mastodon</a></p>
+{{< /rawhtml >}}
+
+
+## Session ID
+
+`05ceb51232aa62fd17a168d503c867eb7d80d6a12a9e7a50b4b5cd15811badd500`
 
 ## Onion Service
 
@@ -47,11 +54,14 @@ Fingerprint: `04EC A94B 3445 7C07 E74F BAE0 50BB 1BFD 02DE DC1D`
 ## Clearnet Service
 
 [anthonybayer.org](https://anthonybayer.org)
+
+## Bitcoin
+
+`1BayerNGeyWgdjq5DruQ4Mo5LoR1nHvxNE`
 -----BEGIN PGP SIGNATURE-----
 
-iJIEARYIADoWIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZGR/mBwcYmF5ZXJhbnRo
-b255QHByb3Rvbm1haWwuY29tAAoJEFC7G/0C3twd85EA/j9ww5eVY1Wq7pnU+Wis
-5SjkbiIUNeSOkbiA3QGEX6DTAP0cfVSJF30oDfYVlNfm22rCEYjpyxuE0lw1iccV
-J8bfAA==
-=oLyr
+iHUEARYIAB0WIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZN1eXwAKCRBQuxv9At7c
+HVNZAP9B06W2DFpH7vu7kV8bAlsnkW89++TFdZseIbj8vMOX9gEAi2+Lxxc1VD/S
+qerMy0dbvnIMbhl+DdgMhgCa2rBd0gg=
+=zb7U
 -----END PGP SIGNATURE-----

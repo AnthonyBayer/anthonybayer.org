@@ -48,7 +48,7 @@
   
   {{ with .NextInSection }}
   	<hr />
-    <p>Next: <a href="{{ .Permalink }}">{{ .Title }}</a></p>
+    <p>Next: <a href="{{ .Permalink }}">{{ if .Params.section}}{{ .Params.section }}.{{end}}{{if .Params.chapter }}{{ .Params.chapter }}:{{end}} {{ .Title }}</a></p>
   {{ end }}
 
   {{ if eq .Type $.Site.Params.contentTypeName }}
