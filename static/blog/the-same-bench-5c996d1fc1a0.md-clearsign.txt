@@ -94,9 +94,8 @@ He walked away. I looked at the drawing he left behind. It was of me, or at leas
 Now I cried.
 -----BEGIN PGP SIGNATURE-----
 
-iJIEARYIADoWIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZGR/nRwcYmF5ZXJhbnRo
-b255QHByb3Rvbm1haWwuY29tAAoJEFC7G/0C3twdZqwA/iv+FZfkj/Adzhbpnh12
-S0rmlue4q0PLdokvw0kpQke8AP48rWayBffJwcaijdDjmt7eDqNi7BqMl4lbvIwy
-HvAuAg==
-=1b/e
+iHUEARYIAB0WIQRQK6VhPrFaFJjB1prNmlHz2knPFgUCZQT52AAKCRDNmlHz2knP
+FkoxAPwKdi5sxK0OCvfyb1m6x1BETYd3BZUEiDroheQHwxG5dwD+PN9G0EFOcGj7
+g13+AaFjWUpmZ91gmMOWle1shwfF1A0=
+=iI6B
 -----END PGP SIGNATURE-----

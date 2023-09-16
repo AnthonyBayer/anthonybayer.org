@@ -29,7 +29,7 @@ There are two main projects created by Anthony. You do not need to read one to u
 
 [anthony@anthonybayer.org](/pgp/anthony@anthonybayer.org.txt)
 
-Fingerprint: `04EC A94B 3445 7C07 E74F BAE0 50BB 1BFD 02DE DC1D`
+Fingerprint: `502B A561 3EB1 5A14 98C1 D69A CD9A 51F3 DA49 CF16`
 
 ## Fediverse/Mastodon
 

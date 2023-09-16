@@ -22,8 +22,8 @@ Every time a game is one a new team replaces the one that is lost - out of twent
 No coach, no drills, just games and teams chosen by many coin tosses.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZEidfwAKCRBQuxv9At7c
-HXV8AQDWg/+AXWlDS7roZEUeJKY2QJ2b7vsJYdyC5PcCfmnHGwEAmynmSV9YDHuW
-33NUOKc41cAmp6u1z6DgdOZKfUusvgY=
-=88pK
+iHUEARYIAB0WIQRQK6VhPrFaFJjB1prNmlHz2knPFgUCZQT55AAKCRDNmlHz2knP
+FrdGAQDpQzlO0e5o0baqwX/9NSoNgrGtjbh52i0HOaZv+U++GgEA1A1JwF/d60iY
+brlsuQpDvIHzrkhKt/pSW1E/f/C6Ug8=
+=enSI
 -----END PGP SIGNATURE-----

@@ -92,8 +92,8 @@ I walked away.
 I tried not to cry, and was only mostly successful.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZEjibwAKCRBQuxv9At7c
-HetMAQC4l/7ddSfTGuG01KXTVuZ0WryNNQHoWmIvRVkwKciD2gD+KHTCQFjPDAw8
-m9htX6gqwxE2+RsO8yy7X633KY7dBwo=
-=EqBG
+iHUEARYIAB0WIQRQK6VhPrFaFJjB1prNmlHz2knPFgUCZQT53wAKCRDNmlHz2knP
+FqrOAP9anV0zGTFgyo/ucTyoMCElX2Js/0iTqYhI7p5mxlw4QQEA/a/rvx1fmLQm
+em6YZLVHZncU0udlzDOjJM2ErMvRrg0=
+=jlnE
 -----END PGP SIGNATURE-----

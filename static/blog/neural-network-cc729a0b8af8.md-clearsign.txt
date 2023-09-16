@@ -22,8 +22,8 @@ Okay," Mr. Agien said, "but its 'neural network', 'artificial intelligence' only
 "But the most important thing to know about neural networks is that they're no different than other functions. (Once they're trained), they will always give the exact same output for the exact same input. There is never randomness in computers, like how a random number generator on a computer is never random, it has to be based off of something.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZEidjwAKCRBQuxv9At7c
-HTDSAPwKAhdFb7BmnD4uoEffcAnIgYUzWWdL/Gmz5s9Ol/ohcwEA53zB25m+DbfF
-l0qkOM0VYjLoCRosNj7YH2pKI7340gY=
-=Weqc
+iHUEARYIAB0WIQRQK6VhPrFaFJjB1prNmlHz2knPFgUCZQT57QAKCRDNmlHz2knP
+Fm6mAP9jjh1A/lZkZzFBRLyJmKhVBzVOUwh/51QHKl17J4XQxwD+LIUNkAj/KcC7
+hlLH0iBg2Di7HZGZ1F8Kt4cMM+RiDwk=
+=zCsY
 -----END PGP SIGNATURE-----

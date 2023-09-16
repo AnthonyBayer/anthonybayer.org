@@ -108,8 +108,8 @@ I turned my head up to show I was listening.
 Kyle chuckled again, then grabbed the pen and started to sign what he needed to.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZEidkQAKCRBQuxv9At7c
-HaO5AP9pZTw2/v94BKpQLwdmrPZdyUTA7sq+r+50Kr59A9PXewD/X+IoVAzyCRWb
-mg2FjUKd12svESthy5dcCT1hOwCqewU=
-=32qu
+iHUEARYIAB0WIQRQK6VhPrFaFJjB1prNmlHz2knPFgUCZQT55AAKCRDNmlHz2knP
+FrLRAQCaGtt4R0JbWKiWWl3frIRWOpf4LmhvC0TqNGah2Atv8gEAksKe3nwqSoqo
+4HykUXMuMuUuLbT9O+6fPon69L9M1QU=
+=fBg/
 -----END PGP SIGNATURE-----

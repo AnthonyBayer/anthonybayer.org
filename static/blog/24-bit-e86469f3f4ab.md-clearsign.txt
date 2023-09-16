@@ -3,7 +3,7 @@ Hash: SHA256
 
 - ---
 title: "24 Bit"
-date: "2022-05-12"
+date: "2020-05-12"
 cover: /blog/24-bit-e86469f3f4ab.jpg
 - ---
 
@@ -24,8 +24,8 @@ Just, in that moment, I loved the music, I loved Lauren Mayberry's voice - all i
 Just in that moment.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZEiddgAKCRBQuxv9At7c
-HZWlAP9vLPIOd4GzjiyELLq1ItdbF/5Trj8nZtfyJQfv5OisewEA79SF5NnSuZAg
-Ns1iQRkcyX6r+UD88mLalnyZYD00/QY=
-=PtQK
+iHUEARYIAB0WIQRQK6VhPrFaFJjB1prNmlHz2knPFgUCZQT50gAKCRDNmlHz2knP
+FtIaAQC352yql9xHk+hMvnfXVLaCkA5cb2kjn8+jizbi9MRNrgD/U/NLwzMJLx9S
+sM1ocSQ/taRVta1cptteCNpiysFyQws=
+=6TEt
 -----END PGP SIGNATURE-----

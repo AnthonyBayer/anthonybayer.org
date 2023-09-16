@@ -58,8 +58,8 @@ We drank again.
 "Oh man, it makes me want to turn straight again."
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZEidhgAKCRBQuxv9At7c
-HaBpAQC0u+3MgP7wGGzsh66eHKbTA5fuD9OgHt0W1H6AyP4V/wD8Cpqcy++ZPlZu
-cDeQi2lwVLmkcnCDBc+CwotVhtaehAQ=
-=KQYX
+iHUEARYIAB0WIQRQK6VhPrFaFJjB1prNmlHz2knPFgUCZQT52wAKCRDNmlHz2knP
+FhACAP9Si10x/tVELIPQzy91iMr8neCO25jfptpGDr1tiGNkowD9GdPTmhvXAHJ0
+UJt1zxjlput5uOqUJE/KbqJBIMsONwk=
+=tmE3
 -----END PGP SIGNATURE-----

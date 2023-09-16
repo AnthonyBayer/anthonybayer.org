@@ -32,7 +32,7 @@ There are two main projects created by Anthony. You do not need to read one to u
 
 [anthony@anthonybayer.org](/pgp/anthony@anthonybayer.org.txt)
 
-Fingerprint: `04EC A94B 3445 7C07 E74F BAE0 50BB 1BFD 02DE DC1D`
+Fingerprint: `502B A561 3EB1 5A14 98C1 D69A CD9A 51F3 DA49 CF16`
 
 ## Fediverse/Mastodon
 
@@ -60,8 +60,8 @@ Fingerprint: `04EC A94B 3445 7C07 E74F BAE0 50BB 1BFD 02DE DC1D`
 `1BayerNGeyWgdjq5DruQ4Mo5LoR1nHvxNE`
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZN1eXwAKCRBQuxv9At7c
-HVNZAP9B06W2DFpH7vu7kV8bAlsnkW89++TFdZseIbj8vMOX9gEAi2+Lxxc1VD/S
-qerMy0dbvnIMbhl+DdgMhgCa2rBd0gg=
-=zb7U
+iHUEARYIAB0WIQRQK6VhPrFaFJjB1prNmlHz2knPFgUCZQT5ywAKCRDNmlHz2knP
+FiBIAP4oXj3OBonSp1UBFhnhW5OjBeD/jHw+TTnq5xiP2W77PwD+N7nU0OmCkuL0
+L4HxVnucvKpYsfH9zdZPNwtmfduM2go=
+=K4TG
 -----END PGP SIGNATURE-----

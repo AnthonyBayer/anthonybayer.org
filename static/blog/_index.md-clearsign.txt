@@ -1,15 +1,21 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
+- ---
+title: "Posts"
+- ---
+
 # Posts
 
-[RSS Feed](/index.xml)
+[Posts RSS feed](/index.xml)
+
+This project is completed and will not see any updates.
 
 > The point of these posts was to make sense to *me* so I could  better my emotions. Most of these don't have context as to whose  perspective it's from, and you likeley won't be able to make sense out  of them, especially considering the lazy writing technique. I've thought about taking them down several times in the past; but every time I  decided against it because of the tiny chance that someone might find  these, and feel better about themselves.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQE7KlLNEV8B+dPuuBQuxv9At7cHQUCZEidiAAKCRBQuxv9At7c
-HU1gAQDWI3m37i6bCDrVG8zwI2HFgcJXO8eDLsqyejPKDS0rBwD7Ba678QlAnU+v
-eyXLtMREm7RyLWbUBsfWtxXwI8+hNQw=
-=FDWZ
+iHUEARYIAB0WIQRQK6VhPrFaFJjB1prNmlHz2knPFgUCZQT50AAKCRDNmlHz2knP
+FsKyAQDUf+iTvf/2muiZRRxP67dIpGly6ar6HXPV7hGOCFj7QAEAzUPBEjQ88ku/
+T2ayMe1htaN6pvrZY42Xf5H1/DKD9gk=
+=gK3n
 -----END PGP SIGNATURE-----
