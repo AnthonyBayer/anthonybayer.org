@@ -8,6 +8,15 @@
   {{ if .Params.section }}
    <p>Section <b class="accent-text-color">{{ .Params.section }}</b>  Chapter <b class="accent-text-color">{{ .Params.chapter }}</b></p>
   {{ end }}
+  
+  {{ if .Params.contentwarning }}
+   <p style="color:#e02020;font-size:24px;font-weight:bold;">{{ .Params.contentwarning }}</p>
+  {{ end }}
+  
+  {{ if .Params.note }}
+   <p style="font-style:italic;font-size:20px;">{{ .Params.note }}</p>
+  {{ end }}
+  
   <h1 class="post-title">
     <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
   </h1>
