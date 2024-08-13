@@ -354,7 +354,7 @@ Another notification popped up.
 
 > **Johnathan Bayer (john@jabber.bayer.tic)**: Do you know when you'll be back?
 
-> > **Anthony Bayer (anthony@jabber.bayer.tic)**: No, why?
+> **Anthony Bayer (anthony@jabber.bayer.tic)**: No, why?
 
 > I have something I want to tell you.
 
@@ -391,8 +391,8 @@ I Might as well be honest.
 > I'm feeling fine about it. Just pissed about the first thing.
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQRQK6VhPrFaFJjB1prNmlHz2knPFgUCZkEvJwAKCRDNmlHz2knP
-Fht1AQCMT2c22IxlyAFa8KJVwx41S9CE0Nwot4vdGrLlPGJlUgEA4HEGJZd0DXdM
-dmOWHgtD5vURIRSGk6sfpxO1BEDnjAI=
-=uX4d
+iHUEARYIAB0WIQRQK6VhPrFaFJjB1prNmlHz2knPFgUCZrrl2AAKCRDNmlHz2knP
+Fh+VAQDJNzWNQyS8iItAtLVUJNnnMHiVMhKomffaVugsyvvr3gEAkACAYqSthvzy
+XNPZPXOkmYTBMzz8vgm1brSDZNqAFQc=
+=f150
 -----END PGP SIGNATURE-----
