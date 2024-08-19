@@ -13,6 +13,10 @@ Anthony was created to give the real person behind the pseudonym a safe place to
 
 - ---
 
+## Announcements
+
+See a list of announcements [here](announcements)
+
 ## Projects
 
 There are two main projects created by Anthony. You do not need to read one to understand the other.
@@ -60,8 +64,8 @@ Fingerprint: `502B A561 3EB1 5A14 98C1 D69A CD9A 51F3 DA49 CF16`
 `1BayerNGeyWgdjq5DruQ4Mo5LoR1nHvxNE`
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQRQK6VhPrFaFJjB1prNmlHz2knPFgUCZrrl0gAKCRDNmlHz2knP
-FlW5AQCN3wE4RcwxCtA5BlXnZoGNbTxbL7Z5RwvbFt2vcQ8v6gD/WXJREhOmB6TA
-cdo5FEDwoEvJCNUJD07Zc/MvoReRwA8=
-=WzAQ
+iHUEARYIAB0WIQRQK6VhPrFaFJjB1prNmlHz2knPFgUCZsKb3AAKCRDNmlHz2knP
+FnbOAP0VQMTQOa1dAsdhjbqcXeEIgWMDwjn7dPMsSla8FguEmAEAm8ToWwgzC/z8
+ovogZMMTa8uZkzIONS2k8MBn1eBuTwI=
+=LtVH
 -----END PGP SIGNATURE-----

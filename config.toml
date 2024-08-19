@@ -18,10 +18,10 @@ disableKinds = ["taxonomy", "term"]
 	contentTypeName = "posts"
 
 	# Custom theme color
-	themeColor = "pear"
+	themeColor = "custom"
 
 	# if you set this to 0, only submenu trigger will be visible
-	showMenuItems = 2
+	showMenuItems = 100
 
 	# show selector to switch language
 	showLanguageSelector = false
@@ -90,13 +90,18 @@ languageCode = "en-us"
 		[languages.en.params.logo]
 			logoText = "Anthony Bayer"
 			logoHomeLink = "/"
+		
+		[[languages.en.menu.main]]
+			identifier = "announcements"
+			name = "Announcements"
+			url = "/announcements"
 
 		[[languages.en.menu.main]]
 			identifier = "chapters"
 			name = "Chapters"
 			url = "/book"
-		[languages.en.menu]
+		
 		[[languages.en.menu.main]]
-		identifier = "blog"
-		name = "Posts"
-		url = "/blog"
+			identifier = "blog"
+			name = "Posts"
+			url = "/blog"

@@ -10,6 +10,10 @@ Anthony was created to give the real person behind the pseudonym a safe place to
 
 ---
 
+## Announcements
+
+See a list of announcements [here](announcements)
+
 ## Projects
 
 There are two main projects created by Anthony. You do not need to read one to understand the other.
