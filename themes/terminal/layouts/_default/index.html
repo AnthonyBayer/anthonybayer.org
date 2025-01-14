@@ -1,13 +1,13 @@
 {{ define "main" }}
   
-  {{ $pagesfirst := union (where site.Pages "Type" "book") (where site.Pages "Type" "blog") }}
-  {{ $pages := union $pagesfirst (where site.Pages "Type" "announcements") }}
+  {{ $pagesfirst := union (where site.Pages "Type" "book") (where site.Pages "Type" "book") }}
+  {{ $pages := union $pagesfirst (where site.Pages "Type" "book") }}
     {{ range last 1 $pages.ByLastmod }}
     
     <article class="post on-list">
     
     <h1 id="latest" style="font-size:24px">Latest</h1>
-    <span> {{ if .Params.section}}Chapter{{ .Params.section}}.{{end}}{{ if .Params.chapter}}{{ .Params.chapter}},{{ end }} {{ if .Date }}{{ .Date.Format "2006 01 02" }}{{ end }}</span>
+    <span> {{ if .Params.section}}Chapter {{ .Params.section}}.{{end}}{{ if .Params.chapter}}{{ .Params.chapter}},{{ end }} {{ if .Date }}{{ .Date.Format "2006 01 02" }}{{ end }}</span>
     <h3 class="post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h3>
     <div class="post-meta">
     {{ with .Params.Author }}
